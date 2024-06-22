@@ -1,2 +1,3 @@
 # Machine-Learning-Yt
-This repo conatins the reference code which is been used in the machine learning videos of Mohit Rohilla youtube channel. 
+
+Welcome to the Machine Learning Yt repository! 🌟 This is a companion repository to my https://www.youtube.com/channel/UCl98aMKR-DfIgaL4IpQhxQw 
